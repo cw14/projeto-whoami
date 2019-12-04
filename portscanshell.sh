@@ -14,7 +14,7 @@ echo "|   |       |     | |   \      |           | |      |      | |     \ |    
 echo "|   |       |_____| |    \     |     ______| |_____ |      | |      \|      |"
 echo "|                                                                           |"
 echo "|                                                                           |"
-echo "| By:Alan Duarte(wнøaмϊ)  Team:Command_Web   Programming:Shell Script Linux |"
+echo "| By:Alan(wнøaмϊ)  Team:Command_Web   Programming:Shell Script Linux |"
 echo "|                                                                           |"
 echo " ---------------------------------------------------------------------------"
 
